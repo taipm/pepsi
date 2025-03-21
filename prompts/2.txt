@@ -8,6 +8,8 @@ Trích xuất hình ảnh: Thêm khả năng trích xuất và hiển thị hìn
 
 Học chủ động: Thêm cơ chế để LLM học từ phản hồi của người dùng.
 
-Lưu ý, đảm bảo chất lượng câu trả lời ở mức độ cao nhất. Hiện nay mã nguồn đang hoạt động tốt trên máy tính của tôi Mac Studio M1 Ultra (64GB)
+Lưu ý:
+- Đảm bảo chất lượng câu trả lời ở mức độ cao nhất. Hiện nay mã nguồn đang hoạt động tốt trên máy tính của tôi Mac Studio M1 Ultra (64GB)
+- Do mã nguồn dài, nên hãy chưa ra thành 03 file .py phù hợp
 
 (Thêm mã nguồn 4.py)
