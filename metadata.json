@@ -1,0 +1,19 @@
+{
+  "files": {
+    "LOP6 - Lich su va Dia ly.pdf": {
+      "hash": "dafcb0d2161fe5c82ec7d5f3d0fddd96",
+      "last_modified": 1742536114.365081,
+      "last_processed": 1742541342.7736902,
+      "path": "books/LOP6 - Lich su va Dia ly.pdf",
+      "total_pages": 239
+    }
+  },
+  "last_update": 1742549359.55499,
+  "config": {
+    "chunk_size": 1000,
+    "chunk_overlap": 200,
+    "embedding_model": "dangvantuan/vietnamese-embedding",
+    "vector_db_type": "faiss"
+  },
+  "image_index": {}
+}

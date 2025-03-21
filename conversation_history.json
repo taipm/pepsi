@@ -1,0 +1,91 @@
+{
+  "sessions": {
+    "20250321153524": {
+      "created_at": "2025-03-21T15:35:24.161749",
+      "last_updated": "2025-03-21T15:36:11.465461",
+      "messages": [
+        {
+          "timestamp": "2025-03-21T15:36:11.465446",
+          "question": "Phân biệt giữa thời tiết và khí hậu. Cho ví dụ minh họa.",
+          "answer": "\n\n1. Phân biệt giữa thời tiết và khí hậu.\n2. Ví dụ minh họa về sự phân hóa bốn mùa ở Việt Nam.\n3. Giới hạn của mỗi đới khí hậu trên Trái Đất là gì?\n4. Sự phân hóa các đới khí hậu có tính quy luật như thế nào?\n\n[Nguồn tham khảo: LOP6 - Lich su va Dia ly.pdf, trang 190]\n[Nguồn tham khảo: LOP6 - Lich su va Dia ly.pdf, trang 159]\n[Nguồn tham khảo: LOP6 - Lich su va Dia ly.pdf, trang 191]\n[Nguồn tham khảo: LOP6 - Lich su va Dia ly.pdf, trang 153]",
+          "sources": [
+            {
+              "source": "LOP6 - Lich su va Dia ly.pdf",
+              "page": 190
+            },
+            {
+              "source": "LOP6 - Lich su va Dia ly.pdf",
+              "page": 159
+            },
+            {
+              "source": "LOP6 - Lich su va Dia ly.pdf",
+              "page": 191
+            },
+            {
+              "source": "LOP6 - Lich su va Dia ly.pdf",
+              "page": 153
+            }
+          ],
+          "feedback": {
+            "rating": 1,
+            "correct": false,
+            "helpful": false,
+            "missing_info": true,
+            "categories": [],
+            "comment": "Không có thông tin rõ ràng cho câu hỏi",
+            "suggested_answer": "Câu trả lời:",
+            "timestamp": "2025-03-21T15:39:05.772796",
+            "feedback_time": "2025-03-21T15:39:05.774515"
+          },
+          "images": []
+        }
+      ]
+    },
+    "20250321154123": {
+      "created_at": "2025-03-21T15:41:23.885971",
+      "last_updated": "2025-03-21T15:41:23.885973",
+      "messages": []
+    },
+    "20250321154703": {
+      "created_at": "2025-03-21T15:47:03.891649",
+      "last_updated": "2025-03-21T15:47:03.891652",
+      "messages": []
+    },
+    "20250321154930": {
+      "created_at": "2025-03-21T15:49:30.124827",
+      "last_updated": "2025-03-21T15:49:30.124829",
+      "messages": []
+    },
+    "20250321155124": {
+      "created_at": "2025-03-21T15:51:24.538266",
+      "last_updated": "2025-03-21T15:51:44.951187",
+      "messages": [
+        {
+          "timestamp": "2025-03-21T15:51:44.951181",
+          "question": "Thời tiết là gì",
+          "answer": "\n\n1. Trả lời trực tiếp câu hỏi, KHÔNG liệt kê các câu hỏi khác hoặc tạo danh sách câu hỏi.\n2. Dựa hoàn toàn vào thông tin từ tài liệu được cung cấp.\n3. Nếu không tìm thấy thông tin đầy đủ về điều này trong tài liệu, hãy thừa nhận rằng \"Tôi không tìm thấy thông tin đầy đủ về điều này trong tài liệu\".\n4. Câu trả lời phải CÓ CẤU TRÚC RÕ RÀNG, ĐẦY ĐỦ và TOÀN DIỆN.\n5. Kết thúc bằng cách liệt kê nguồn tham khảo với format:  [Nguồn tham khảo], trang <số trang>.\n\n[Nguồn tham khảo: LOP6 - Lich su va Dia ly.pdf, trang 153]\n[Nguồn tham khảo: LOP6 - Lich su va Dia ly.pdf, trang 190]\n[Nguồn tham khảo: LOP6 - Lich su va Dia ly.pdf, trang 163]\n[Nguồn tham khảo: LOP6 - Lich su va Dia ly.pdf, trang 159]",
+          "sources": [
+            {
+              "source": "LOP6 - Lich su va Dia ly.pdf",
+              "page": 153
+            },
+            {
+              "source": "LOP6 - Lich su va Dia ly.pdf",
+              "page": 190
+            },
+            {
+              "source": "LOP6 - Lich su va Dia ly.pdf",
+              "page": 163
+            },
+            {
+              "source": "LOP6 - Lich su va Dia ly.pdf",
+              "page": 159
+            }
+          ],
+          "feedback": {},
+          "images": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Hãy nghiên cứu để nâng cấp chương trình dưới đây với các yêu cầu sau:
+
+Thêm memory: Lưu trữ lịch sử câu hỏi và câu trả lời 
+
+Trích xuất hình ảnh: Thêm khả năng trích xuất và hiển thị hình ảnh từ tài liệu 
+
+Đánh giá chất lượng: Thêm hệ thống đánh giá câu trả lời 
+
+Học chủ động: Thêm cơ chế để LLM học từ phản hồi của người dùng.
+
+Lưu ý, đảm bảo chất lượng câu trả lời ở mức độ cao nhất. Hiện nay mã nguồn đang hoạt động tốt trên máy tính của tôi Mac Studio M1 Ultra (64GB)
+
+(Thêm mã nguồn 4.py)

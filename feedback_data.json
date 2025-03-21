@@ -1,0 +1,141 @@
+{
+  "feedbacks": [
+    {
+      "id": 1,
+      "timestamp": "2025-03-21T15:39:05.772826",
+      "question": "Phân biệt giữa thời tiết và khí hậu. Cho ví dụ minh họa.",
+      "answer": "\n\n1. Phân biệt giữa thời tiết và khí hậu.\n2. Ví dụ minh họa về sự phân hóa bốn mùa ở Việt Nam.\n3. Giới hạn của mỗi đới khí hậu trên Trái Đất là gì?\n4. Sự phân hóa các đới khí hậu có tính quy luật như thế nào?\n\n[Nguồn tham khảo: LOP6 - Lich su va Dia ly.pdf, trang 190]\n[Nguồn tham khảo: LOP6 - Lich su va Dia ly.pdf, trang 159]\n[Nguồn tham khảo: LOP6 - Lich su va Dia ly.pdf, trang 191]\n[Nguồn tham khảo: LOP6 - Lich su va Dia ly.pdf, trang 153]",
+      "rating": 1,
+      "correct": false,
+      "helpful": false,
+      "missing_info": true,
+      "comment": "Không có thông tin rõ ràng cho câu hỏi",
+      "suggested_answer": "Câu trả lời:",
+      "categories": [],
+      "sources": []
+    }
+  ],
+  "metrics": {
+    "total_feedbacks": 1,
+    "positive_count": 0,
+    "negative_count": 1,
+    "neutral_count": 0,
+    "avg_rating": 1.0,
+    "topic_ratings": {}
+  },
+  "learning_patterns": {
+    "phân": {
+      "count": 1,
+      "avg_rating": 1.0,
+      "correct_count": 0,
+      "helpful_count": 0,
+      "missing_info_count": 1,
+      "examples": [
+        {
+          "question": "Phân biệt giữa thời tiết và khí hậu. Cho ví dụ minh họa.",
+          "rating": 1,
+          "id": 1
+        }
+      ]
+    },
+    "biệt": {
+      "count": 1,
+      "avg_rating": 1.0,
+      "correct_count": 0,
+      "helpful_count": 0,
+      "missing_info_count": 1,
+      "examples": [
+        {
+          "question": "Phân biệt giữa thời tiết và khí hậu. Cho ví dụ minh họa.",
+          "rating": 1,
+          "id": 1
+        }
+      ]
+    },
+    "giữa": {
+      "count": 1,
+      "avg_rating": 1.0,
+      "correct_count": 0,
+      "helpful_count": 0,
+      "missing_info_count": 1,
+      "examples": [
+        {
+          "question": "Phân biệt giữa thời tiết và khí hậu. Cho ví dụ minh họa.",
+          "rating": 1,
+          "id": 1
+        }
+      ]
+    },
+    "thời": {
+      "count": 1,
+      "avg_rating": 1.0,
+      "correct_count": 0,
+      "helpful_count": 0,
+      "missing_info_count": 1,
+      "examples": [
+        {
+          "question": "Phân biệt giữa thời tiết và khí hậu. Cho ví dụ minh họa.",
+          "rating": 1,
+          "id": 1
+        }
+      ]
+    },
+    "tiết": {
+      "count": 1,
+      "avg_rating": 1.0,
+      "correct_count": 0,
+      "helpful_count": 0,
+      "missing_info_count": 1,
+      "examples": [
+        {
+          "question": "Phân biệt giữa thời tiết và khí hậu. Cho ví dụ minh họa.",
+          "rating": 1,
+          "id": 1
+        }
+      ]
+    },
+    "hậu.": {
+      "count": 1,
+      "avg_rating": 1.0,
+      "correct_count": 0,
+      "helpful_count": 0,
+      "missing_info_count": 1,
+      "examples": [
+        {
+          "question": "Phân biệt giữa thời tiết và khí hậu. Cho ví dụ minh họa.",
+          "rating": 1,
+          "id": 1
+        }
+      ]
+    },
+    "minh": {
+      "count": 1,
+      "avg_rating": 1.0,
+      "correct_count": 0,
+      "helpful_count": 0,
+      "missing_info_count": 1,
+      "examples": [
+        {
+          "question": "Phân biệt giữa thời tiết và khí hậu. Cho ví dụ minh họa.",
+          "rating": 1,
+          "id": 1
+        }
+      ]
+    },
+    "họa.": {
+      "count": 1,
+      "avg_rating": 1.0,
+      "correct_count": 0,
+      "helpful_count": 0,
+      "missing_info_count": 1,
+      "examples": [
+        {
+          "question": "Phân biệt giữa thời tiết và khí hậu. Cho ví dụ minh họa.",
+          "rating": 1,
+          "id": 1
+        }
+      ]
+    }
+  },
+  "last_updated": "2025-03-21T15:35:20.189797"
+}

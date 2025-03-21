@@ -1,0 +1,17 @@
+{
+  "id": "eb47b40e-1e50-4de6-be0f-ae72ba978e23",
+  "name": "Phiên mặc định",
+  "created_at": "2025-03-21T16:29:19.555715",
+  "updated_at": "2025-03-21T16:30:24.687831",
+  "exchanges": [
+    {
+      "timestamp": "2025-03-21T16:30:24.687809",
+      "question": "Thời tiết là gì ?",
+      "answer": "\n        1. Tôi không có thông tin về tài liệu được cung cấp.\n        2. Lịch sử trò chuyện cho thấy rằng chúng ta đã thảo luận về một chủ đề cụ thể, nhưng tôi chưa tìm thấy bất kỳ thông tin nào liên quan đến chủ đề đó trong tài liệu này.\n        3. Nếu câu hỏi liên quan đến hình ảnh được đề cập trong tài liệu, hãy đề xuất hiển thị hình ảnh đó và phân tích các dữ liệu từ nhiều nguồn khác nhau để đưa ra câu trả lời toàn diện.\n        4. Sắp xếp câu trả lời theo cấu trúc rõ ràng và dễ hiểu.\n        5. Kết thúc câu trả lời bằng cách liệt kê các nguồn tài liệu tham khảo với format:\n         [Tên tài liệu], trang  <số trang>.\n        \n        ### Trả lời:\\n### Trả lời:",
+      "source_docs": [],
+      "images": [],
+      "quality_score": 0.6076923076923076
+    }
+  ],
+  "feedback": []
+}
